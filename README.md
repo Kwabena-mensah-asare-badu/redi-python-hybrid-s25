@@ -1,4 +1,4 @@
-#Password Generatot Project 
+#Password Generator Project 
 
 This python project generates a customizable and secure password through a GUI. A passwords are saved into a file giving users the chance to compare and choose their preferred password.
 
@@ -6,16 +6,15 @@ This python project generates a customizable and secure password through a GUI. 
 #Unique Features
 Customizable Password Options
 
--Minimum lenghth
+-Minimum length
 -Uppercase characters
--Lower caracters
+-Lower characters
 -Numbers
 -Special Characters
 
 #Extras
 -Graphical User Interface built with "Tkinter"
 -Password saving feature
-
 
 
 #GUI preview
