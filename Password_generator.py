@@ -129,5 +129,3 @@ tk.Entry(root, textvariable=output_var, width=60, state="readonly").pack()
 tk.Button(root, text="generate password", command=on_generate).pack(pady=20)
 
 root.mainloop()
-
-
