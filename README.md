@@ -1,5 +1,5 @@
 #Password Generator Project 
-This python project generates a customizable and secure password through a GUI. A passwords are saved into a file giving users the chance to compare and choose their preferred password.
+This Python project generates a customizable and secure password through a GUI. The passwords are saved into a file, giving users the chance to compare and choose their preferred password.
 
 
 
@@ -43,7 +43,7 @@ Customizable Password Options
 
 
 
-Author
+Author -
 Kwabena Mensah Asare Badu
 
 github profile - Kwabena-mensah-asare-badu
