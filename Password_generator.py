@@ -65,7 +65,7 @@ def generate_password(min_length, uppercase=True, lowercase=True, numbers=True, 
 
     return password
 
-#Function to save code as file
+#Function to save code as a file
 def save_password_as_file(password):
     try:
         with open("passwords.txt", "a") as file:
@@ -100,7 +100,7 @@ def on_generate():
     except ValueError:
         messagebox.showinfo("Password Generated", f"Password generated and saved:\n{password}")
 
-#Graphical User INterface Windwo Setup
+#Graphical User Interface Window Setup
 root = tk.Tk()
 root.title("Password Generator")
 root.geometry("400x350")
@@ -110,7 +110,7 @@ tk.Label(root, text="Minimum Pssword Length:").pack(pady=5)
 entry_length = tk.Entry(root)
 entry_length.pack()
 
-#Checboxes to Select Character Options
+# Checkboxes to Select Character Options
 var_upper = tk.BooleanVar(value=True)
 var_lower =tk.BooleanVar(value=True)
 var_numbers =tk.BooleanVar(value=True)
@@ -121,7 +121,7 @@ tk.Checkbutton(root, text="Lowercase Leters", variable=var_lower).pack(anchor="w
 tk.Checkbutton(root, text="Numbers", variable=var_numbers).pack(anchor="w", padx=20)
 tk.Checkbutton(root, text="Special Characters", variable=var_special).pack(anchor="w", padx=20)
 
-#Output dispaly and Genertae Button
+#Output display and Generate Button
 output_var = tk.StringVar()
 tk.Label(root, text="Generate_Password").pack(pady=10)
 tk.Entry(root, textvariable=output_var, width=60, state="readonly").pack()
