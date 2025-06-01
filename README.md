@@ -2,7 +2,6 @@
 This Python project generates a customizable and secure password through a GUI. The passwords are saved in a file, allowing users to compare and choose their preferred password.
 
 
-
 #Unique Features
 Customizable Password Options
 -Minimum length
@@ -16,10 +15,8 @@ Customizable Password Options
 -Password saving feature
 
 
-
 #GUI preview
 [alt text](<Screenshot 2025-05-29 112409.png>)
-
 
 
 #Tools, Libraries and Plugins
@@ -27,7 +24,7 @@ Customizable Password Options
 -Tkinter (for GUI)     
 
 #Libraries:
--random,
+-random
 -string (for characters)
 
 
