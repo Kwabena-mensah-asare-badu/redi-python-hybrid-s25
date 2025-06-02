@@ -25,8 +25,8 @@ Customizable Password Options
 
 ## Libraries:
 -random
--string (for characters)
-
+$-string (for characters)
+$
 
 
 ## Reference
