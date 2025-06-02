@@ -38,7 +38,9 @@ Customizable Password Options
 -https://pythonbasics.org/tkinter/
 -https://www.askpython.com/python/examples/storing-retrieving-passwords-securely
 
-
+#How to Run This Code
+-Clone this repository into VSCode or Python
+-Run the Python file
 
 Author -
 Kwabena Mensah Asare Badu
