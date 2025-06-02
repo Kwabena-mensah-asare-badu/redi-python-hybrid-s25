@@ -1,9 +1,9 @@
-# #Password Generator Project 
+# Password Generator Project 
 
 This Python project generates a customizable and secure password through a GUI. The passwords are saved in a file, allowing users to compare and choose their preferred password.
 
 
-## ## # #Unique Features
+## Unique Features
 Customizable Password Options
 -Minimum length
 -Uppercase characters
@@ -11,7 +11,7 @@ Customizable Password Options
 -Numbers
 -Special Characters
 
-## ## #Extras
+## Extras
 -Graphical User Interface built with "Tkinter"
 -Password saving feature
 
@@ -19,17 +19,17 @@ Customizable Password Options
  #GUI preview
 (https://)![[alt text](<Screenshot 2025-05-29 112409.png>)
 
-## #### #Tools, Libraries and Plugins
+## Tools, Libraries and Plugins
 -Python
 -Tkinter (for GUI)     
 
-## ###### #Libraries:
+## Libraries:
 -random
 -string (for characters)
 
 
 
-## #Reference
+## Reference
 -https://docs.python.org/3/library/tkinter.html
 -https://www.geeksforgeeks.org/python-gui-tkinter/
 -https://training.devlaunch.us/tim
@@ -38,11 +38,11 @@ Customizable Password Options
 -https://pythonbasics.org/tkinter/
 -https://www.askpython.com/python/examples/storing-retrieving-passwords-securely
 
-## ###### #How to Run This Code
+## How to Run This Code
 -Clone this repository into VSCode or Python
 -Run the Python file
 
-## ##### Author -
+## Author -
 Kwabena Mensah Asare Badu
 
 github profile - Kwabena-mensah-asare-badu
